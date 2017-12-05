@@ -1,0 +1,32 @@
+{
+  "name": "jasmine-standalone-2",
+  "version": "1.0.0",
+  "description": "Codigo do jasmine  todos os comandos",
+  "main": "index.js",
+  "scripts": {
+    "test-jasmine": "jasmine",
+    "test-karma": "karma start",
+    "test": "karma start --single-run"
+  },
+  "devDependencies": {
+    "browserify": "^14.5.0",
+    "jasmine": "^2.8.0",
+    "karma": "^1.7.1",
+    "karma-browserify": "^5.1.2",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-firefox-launcher": "^1.0.1",
+    "karma-jasmine": "^1.1.1",
+    "watchify": "^3.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/higorlaf12/Jasmine-standalone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/higorlaf12/Jasmine-standalone/issues"
+  },
+  "homepage": "https://github.com/higorlaf12/Jasmine-standalone#readme"
+}
